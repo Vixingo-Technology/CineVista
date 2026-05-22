@@ -1,0 +1,6 @@
+{
+  "name": "CineVista",
+  "description": "An AI-powered cinema platform connecting ratings from across the web with a built-in virtual film assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
